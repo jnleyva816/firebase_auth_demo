@@ -1,0 +1,28 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins-dependencies
+build/
+ios/Flutter/.last_build_id
+
+# Android/IntelliJ related
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.gradle
+local.properties
+**/GeneratedPluginRegistrant.java
+.metadata
+android/.cxx
+**/*.jks
+.android/
+.gradle/
+**/gradle-wrapper.properties
+
+# macOS
+.DS_Store
+macos/Flutter/ephemeral/
